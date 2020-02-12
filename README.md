@@ -1,4 +1,4 @@
-# TEAM 2 - Project
+# TEAM 2 - Legends Restaurant
 
 Creating a project for team 2 including topics API and OOP.
 
